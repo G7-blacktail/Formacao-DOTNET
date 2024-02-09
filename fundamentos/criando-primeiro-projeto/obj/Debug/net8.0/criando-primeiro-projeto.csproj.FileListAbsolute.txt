@@ -1,0 +1,14 @@
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\bin\Debug\net8.0\criando-primeiro-projeto.exe
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\bin\Debug\net8.0\criando-primeiro-projeto.deps.json
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\bin\Debug\net8.0\criando-primeiro-projeto.runtimeconfig.json
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\bin\Debug\net8.0\criando-primeiro-projeto.dll
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\bin\Debug\net8.0\criando-primeiro-projeto.pdb
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\obj\Debug\net8.0\criando-primeiro-projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\obj\Debug\net8.0\criando-primeiro-projeto.AssemblyInfoInputs.cache
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\obj\Debug\net8.0\criando-primeiro-projeto.AssemblyInfo.cs
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\obj\Debug\net8.0\criando-primeiro-projeto.csproj.CoreCompileInputs.cache
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\obj\Debug\net8.0\criando-primeiro-projeto.dll
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\obj\Debug\net8.0\refint\criando-primeiro-projeto.dll
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\obj\Debug\net8.0\criando-primeiro-projeto.pdb
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\obj\Debug\net8.0\criando-primeiro-projeto.genruntimeconfig.cache
+C:\Users\gustavo.fernandes\Documents\Gustavo\Formacoes\dotnet\fundamentos\criando-primeiro-projeto\obj\Debug\net8.0\ref\criando-primeiro-projeto.dll
