@@ -1,0 +1,13 @@
+camelCase : a primeira palavra tem a letra minuscula e as demais são maiusculas;
+ex.:
+    nomes de variaveis;
+
+PascalCase : Todas as primeiras letras das palavras começam com maiuscula;
+ex.:
+    Nomes de classes;
+    Nomes de propriedades;
+    Nomes de métodos;
+
+snake_case : tudo é minusculo porém tem um underline entre as palavras;
+
+spinal-case : tudo é minusculo porém há um hífem entre as palavras;
