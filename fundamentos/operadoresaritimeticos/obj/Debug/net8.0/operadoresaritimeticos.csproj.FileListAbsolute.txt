@@ -1,0 +1,15 @@
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\bin\Debug\net8.0\operadoresaritimeticos.exe
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\bin\Debug\net8.0\operadoresaritimeticos.deps.json
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\bin\Debug\net8.0\operadoresaritimeticos.runtimeconfig.json
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\bin\Debug\net8.0\operadoresaritimeticos.dll
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\bin\Debug\net8.0\operadoresaritimeticos.pdb
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\obj\Debug\net8.0\operadoresaritimeticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\obj\Debug\net8.0\operadoresaritimeticos.AssemblyInfoInputs.cache
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\obj\Debug\net8.0\operadoresaritimeticos.AssemblyInfo.cs
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\obj\Debug\net8.0\operadoresaritimeticos.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\obj\Debug\net8.0\operadoresaritimeticos.sourcelink.json
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\obj\Debug\net8.0\operadoresaritimeticos.dll
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\obj\Debug\net8.0\refint\operadoresaritimeticos.dll
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\obj\Debug\net8.0\operadoresaritimeticos.pdb
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\obj\Debug\net8.0\operadoresaritimeticos.genruntimeconfig.cache
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\operadoresaritimeticos\obj\Debug\net8.0\ref\operadoresaritimeticos.dll

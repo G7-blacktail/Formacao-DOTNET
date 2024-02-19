@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "operadoresaritimeticos/1.0.0": {
+        "runtime": {
+          "operadoresaritimeticos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "operadoresaritimeticos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
