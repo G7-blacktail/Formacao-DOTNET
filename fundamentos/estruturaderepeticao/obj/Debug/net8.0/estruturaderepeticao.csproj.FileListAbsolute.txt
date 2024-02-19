@@ -1,0 +1,15 @@
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\bin\Debug\net8.0\estruturaderepeticao.exe
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\bin\Debug\net8.0\estruturaderepeticao.deps.json
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\bin\Debug\net8.0\estruturaderepeticao.runtimeconfig.json
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\bin\Debug\net8.0\estruturaderepeticao.dll
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\bin\Debug\net8.0\estruturaderepeticao.pdb
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\obj\Debug\net8.0\estruturaderepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\obj\Debug\net8.0\estruturaderepeticao.AssemblyInfoInputs.cache
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\obj\Debug\net8.0\estruturaderepeticao.AssemblyInfo.cs
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\obj\Debug\net8.0\estruturaderepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\obj\Debug\net8.0\estruturaderepeticao.sourcelink.json
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\obj\Debug\net8.0\estruturaderepeticao.dll
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\obj\Debug\net8.0\refint\estruturaderepeticao.dll
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\obj\Debug\net8.0\estruturaderepeticao.pdb
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\obj\Debug\net8.0\estruturaderepeticao.genruntimeconfig.cache
+C:\Users\Gusta\Documents\DIO\Formações\Formacao-DOTNET\fundamentos\estruturaderepeticao\obj\Debug\net8.0\ref\estruturaderepeticao.dll
